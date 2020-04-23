@@ -19,10 +19,10 @@ Can a predictive model be built for a future prediction of the possibility of co
 Your organization has assigned you as the lead data scientist to provide the answers to these questions. You need to work on getting answers to them in this Capstone Project by following the standard approach of data science and machine learning.
 
 The notebooks were split up into the four questions of the project: 
-Q1 - Identify the top complaint type
-Q2 - Identify areas most affected by the top complaint type
-Q3 - Identify relationships between building characteristics and the top complaint
-Q4 - Create a model to predict the top complaint type
+* Q1 - Identify the top complaint type
+* Q2 - Identify areas most affected by the top complaint type
+* Q3 - Identify relationships between building characteristics and the top complaint
+* Q4 - Create a model to predict the top complaint type
 
 ## Datasets 
 
