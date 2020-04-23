@@ -1,6 +1,6 @@
 # edX_IBM_DS_Capstone
 
-This is the original run through with all raw data for edx Data Science and Machine Learning Capstone Project. 
+This is the original run through for edx Data Science and Machine Learning Capstone Project. 
 
 ## Problem Statement
 
@@ -17,6 +17,12 @@ Should the Department of Housing Preservation and Development of New York City f
 Does the Complaint Type that you identified in response to question 1 have an obvious relationship with any particular characteristic or characteristics of the houses or buildings?
 Can a predictive model be built for a future prediction of the possibility of complaints of the type that you have identified in response to question 1?
 Your organization has assigned you as the lead data scientist to provide the answers to these questions. You need to work on getting answers to them in this Capstone Project by following the standard approach of data science and machine learning.
+
+The notebooks were split up into the four questions of the project: 
+Q1 - Identify the top complaint type
+Q2 - Identify areas most affected by the top complaint type
+Q3 - Identify relationships between building characteristics and the top complaint
+Q4 - Create a model to predict the top complaint type
 
 ## Datasets 
 
