@@ -44,3 +44,10 @@ The notebooks were split up into the four questions of the project:
 * seaborn
 * sklearn
 * tensorflow
+
+# Project Notes:
+
+Original csv is too large to upload on Github so first notebook cannot be run from scratch. Pkl files for Q2, Q3, and Q4 are included. 
+
+Future work:
+- The unbalanced nature of the data lead to over predicting of negative results. The weighted F1 score of 0.83 is not terrible, but further feature engineering and tweaking to the model must be done in order to increase recall on the positive results. 
